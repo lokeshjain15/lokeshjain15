@@ -2,7 +2,7 @@
 # 💫 About Me:
 I am Currently Working on project<br>I am Currently learning HTML,CSS,JAVASCIPRT,JAVA<C,C++etc.....<br>Fun Fact: the first computer "bug" was an actual real-life-bug.<br>
 
-<img src="https://www.canva.com/design/DAGhxhhoNBE/w2ZpTz0mjnhrjEAueqaTkg/edit?utm_content=DAGhxhhoNBE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"/>
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQH6hr9x6bj66Q/profile-displaybackgroundimage-shrink_350_1400/B4DZWYlsU9G8AY-/0/1742021779158?e=1747267200&v=beta&t=74VpsyGka93eIQ3thGkfkms5hHda1LgY58bpuj_zaPM"/>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lokeshjain_15) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lokesh-dugar-831619336/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dugarlokesh22@gmail.com) 
