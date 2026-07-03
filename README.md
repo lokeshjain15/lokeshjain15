@@ -3,7 +3,7 @@
 I am Currently Working on project<br>I am Currently learning HTML,CSS,JAVASCIPRT,JAVA<C,C++etc.....<br>Fun Fact: the first computer "bug" was an actual real-life-bug.<br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lokeshjain15/lokeshjain15/main/banner.png" alt="Lokesh Jain Banner" width="100%">
+  <img src="./banner.png" alt="Lokesh Jain Banner" width="100%">
 </p>
 
 ## 🌐 Socials:
